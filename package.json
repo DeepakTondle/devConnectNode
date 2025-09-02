@@ -1,0 +1,19 @@
+{
+  "name": "devconnect-be",
+  "version": "1.0.0",
+  "description": "dev connects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Deepak Tondle",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
